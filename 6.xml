@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+	<student>
+		<name>
+			<fn>abc</fn>
+			<ln>xyz</ln>
+		</name>
+		<id></id>
+		<plan>
+			<courses year="1">
+			<course>
+				<name></name>
+				<shortName></shortName>
+				<record>
+				<grade></grade>
+				<date></date>
+				</record>
+			</course>
+			</courses>
+		</plan>
+	</student>

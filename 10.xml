@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+<empNo>121</empNo>
+<name>abc</name>
+<department>sales</department>
+<managerName>xyz</managerName>
+<projectAssigned>
+<proj_1>pqr</proj_1>
+<proj_2>ght</proj_2>
+<proj_3>dfg</proj_3></projectAssigned>
+<designation></designation>
+</employee>

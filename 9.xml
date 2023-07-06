@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+	<letter>
+		<contact type="officer">
+		<name></name>
+		<address></address>
+		<city></city>
+		<pin></pin>
+		<sate></sate>
+		<flag gender="male"></flag>
+		</contact>
+		<salutation></salutation>
+		<paragraph></paragraph>
+		<closing></closing>
+		<signature></signature>
+	</letter>
